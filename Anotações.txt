@@ -1,1 +1,29 @@
-Isaac: Estou estudando os códigos.
+lixo Isaac{
+	public:
+		- Estudando os códigos;
+		- Estudar método "sigaLinha()";
+
+	private:
+
+
+		#ifndef  // Para quê serve?
+
+		#define ESTRATEGIA_H 
+		/*
+			
+			1- O que é, e para quê serve #ifndef e #endif?
+
+			2- Okay, você definiu ESTRATEGIA_H, mas o que seria esse ESTRATEGIA_H? 
+			Uma variável?
+
+			3- Qual é a diferença entre métodos/objetos públicos/privados?
+
+			4- Qual a diferença entre as extensões .h e .cpp?
+
+
+		*/
+
+
+
+
+}
