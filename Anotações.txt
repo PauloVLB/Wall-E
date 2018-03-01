@@ -1,14 +1,13 @@
 lixo Isaac{
 	public:
-		- Estudando os códigos;
 		- Estudar método "sigaLinha()";
 
 	private:
 
 
-		#ifndef  // Para quê serve?
-
+		#ifndef
 		#define ESTRATEGIA_H 
+
 		/*
 			
 			1- O que é, e para quê serve #ifndef e #endif?
@@ -19,11 +18,10 @@ lixo Isaac{
 			3- Qual é a diferença entre métodos/objetos públicos/privados?
 
 			4- Qual a diferença entre as extensões .h e .cpp?
-
-
+		
 		*/
 
 
-
+		01/03/18 - Isaac: Estou com fome, quero pizza.
 
 }
