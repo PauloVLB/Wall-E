@@ -1,27 +1,55 @@
 lixo Isaac{
 	public:
-		- Estudar método "sigaLinha()";
+		- Estudar mÃ©todo "sigaLinha()"; :(
 
 	private:
 
 
-		#ifndef
-		#define ESTRATEGIA_H 
+		#ifndef  - :/
+		#define ESTRATEGIA_H :/
+
+
+		#define ESQUERDA 1 	?
+		#define DIREITA 2	?
 
 		/*
 			
-			1- O que é, e para quê serve #ifndef e #endif?
+			1 :/ - O que Ã©, e para quÃª serve #ifndef e #endif? {
+				Serve para impedir que uma mesma classe seja incluida em outra classe. 
+			}
 
-			2- Okay, você definiu ESTRATEGIA_H, mas o que seria esse ESTRATEGIA_H? 
-			Uma variável?
+			2 :/ - Okay, vocÃª definiu ESTRATEGIA_H, mas o que seria esse ESTRATEGIA_H?{
+			Uma variÃ¡vel?
 
-			3- Qual é a diferença entre métodos/objetos públicos/privados?
+				Inclue classes e define constantes. 
+			}	
 
-			4- Qual a diferença entre as extensões .h e .cpp?
+			3 :/ - Qual Ã© a diferenÃ§a entre mÃ©todos/objetos pÃºblicos/privados? {
+
+				PÃºblicos: todas as classes podem herdar.
+				Privado: exclusivo da classe.
+			}	
+
+			4 :/ - Qual a diferenÃ§a entre as extensÃµes .h e .cpp? {
+
+			.h - CÃ³digo Principal;
+			.cpp - ExtensÃ£o;
+			}
+
+			3 :/ - Incluir ou definir uma classe? { 
+
+				2- Okay, vocÃª definiu ESTRATEGIA_H, mas o que seria esse ESTRATEGIA_H? 
+				Uma variÃ¡vel?
+
+					Inclue classes e define constantes. :/
+
+
+			}
+
 		
 		*/
 
 
 		01/03/18 - Isaac: Estou com fome, quero pizza.
-
+		02/03/18 - Isaac: Calma, estou confuso.
 }
