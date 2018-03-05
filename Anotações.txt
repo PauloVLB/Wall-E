@@ -5,12 +5,21 @@ lixo Isaac{
 	private:
 
 
-		#ifndef  - :/
-		#define ESTRATEGIA_H :/
+		
+		#define ESQUERDA 1 	??
+		#define DIREITA 2	??
 
+		#include <robo_hardware.h>  // Incluir classe ??
+		#include "SensoresWallE.h"	// Incluir classe ??
 
-		#define ESQUERDA 1 	?
-		#define DIREITA 2	?
+		void setup(){
+  			Serial.begin(9600);  ? // Método para inicializar o serial.
+		  	robo.configurar(false); ?  //	Método para 
+		}
+
+		void Estrategia::configurar(){
+			pinMode(LED_BUILTIN, OUTPUT);  // Sintaxe e semântica?
+		}
 
 		/*
 			
@@ -36,13 +45,7 @@ lixo Isaac{
 			.cpp - Extensão;
 			}
 
-			3 :/ - Incluir ou definir uma classe? { 
-
-				2- Okay, você definiu ESTRATEGIA_H, mas o que seria esse ESTRATEGIA_H? 
-				Uma variável?
-
-					Inclue classes e define constantes. :/
-
+			5 :( - Por que você não usou o #ifndef em "Estrategia.cpp"?
 
 			}
 
@@ -52,4 +55,5 @@ lixo Isaac{
 
 		01/03/18 - Isaac: Estou com fome, quero pizza.
 		02/03/18 - Isaac: Calma, estou confuso.
+		05/03/18 - Isaac: Estou começando a entender... :)
 }
